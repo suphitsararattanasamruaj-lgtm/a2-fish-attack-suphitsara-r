@@ -37,9 +37,6 @@ The game also includes an underwater background and sound effects.
 
 ---
 
-
-> Open this page at [https://suphitsararattanasamruaj-lgtm.github.io/a2-fish-attack-suphitsara-r/](https://suphitsararattanasamruaj-lgtm.github.io/a2-fish-attack-suphitsara-r/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
