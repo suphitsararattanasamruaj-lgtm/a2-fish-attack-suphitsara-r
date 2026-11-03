@@ -30,9 +30,10 @@ Eating happens automatically when the shark touches a creature it can eat.
 
 The game also includes an underwater background and sound effects.
 
-## How play the game
+## How to play the game
 
-1. Copy https://arcade.makecode.com/S40838-54091-66582-80082 and paste it into a browser. 
+1. Copy https://arcade.makecode.com/S40838-54091-66582-80082 and paste it into a browser.
+2. Or you could simply click the link to play the game. 
 
 ---
 
