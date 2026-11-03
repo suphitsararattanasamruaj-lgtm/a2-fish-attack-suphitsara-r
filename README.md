@@ -4,7 +4,7 @@ Created by Suphitsara for Creative Coding Assessment 2.
 
 ## About the game
 
-Fish Attack is a shark survival game made with Microsoft MakeCode Arcade using Python.
+Fish Attack is a shark survival game made with Microsoft MakeCode Arcade using Python and Block code.
 
 Control a shark, eat fish, gain points and grow bigger. Avoid larger creatures until your shark is strong enough to eat them. Try to survive the two-minute round and beat your previous high score.
 
