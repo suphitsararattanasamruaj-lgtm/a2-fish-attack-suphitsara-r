@@ -1,9 +1,7 @@
  # Fish Attack
-
 Created by Suphitsara for Creative Coding Assessment 2.
 
 ## About the game
-
 Fish Attack is a shark survival game made with Microsoft MakeCode Arcade using Python and Block code.
 
 A player must: 
@@ -12,7 +10,6 @@ Avoid larger creatures until the shark is strong enough to eat them.
 Try to survive the two-minute round and beat your previous high score.
 
 ## Controls
-
 - Up arrow: swim up.
 - Down arrow: swim down.
 - Left arrow: swim left.
@@ -23,7 +20,6 @@ You can also use the on-screen directional buttons.
 Eating happens automatically when the shark touches a creature it can eat.
 
 ## Game rules
-
 - Eat small fish to increase your score.
 - As your score increases, your shark grows and can eat larger creatures.
 - Touching a creature that is too strong for your shark causes damage.
